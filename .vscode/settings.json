@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "Programming"
+    ],
+    "java.project.referencedLibraries": [],
+    "java.project.outputPath": "classOutput"
+}

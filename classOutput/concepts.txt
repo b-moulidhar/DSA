@@ -1,0 +1,2 @@
+*   args in void main() are the command line arguments.
+    The main() function is the entry point of a C program. It is where the program starts execution. 
